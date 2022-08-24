@@ -1,0 +1,199 @@
+{
+    "category": [
+        {
+            "id": "1",
+            "title": "Male clothes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/man_fashion.png"
+        },
+        {
+            "id": "2",
+            "title": "Female clothes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/woman_fashion.png"
+        },
+        {
+            "id": "3",
+            "title": "Kid clothes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/baby_fashion-2.png"
+        },
+        {
+            "id": "4",
+            "title": "Male shoes",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/man_shoes.png"
+        },
+        {
+            "id": "5",
+            "title": "Female shore",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/woman_shoes.png"
+        },
+        {
+            "id": "6",
+            "title": "Bag & Backpack",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/bag.png"
+        },
+        {
+            "id": "7",
+            "title": "Accessories",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/accessories.png"
+        },
+        {
+            "id": "8",
+            "title": "Other",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_avatar/other.png"
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "category_title": "Male clothes",
+            "title": "HOODIE N",
+            "price": "$ 1.500",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/hoodie/hoodie-1.jpg"
+        },
+        {
+            "id": "2",
+            "category_title": "Male clothes",
+            "title": "JACKET",
+            "price": "$ 800",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/jacket/jacket-1.jpg"
+        },
+        {
+            "id": "3",
+            "category_title": "Male clothes",
+            "title": "POLO",
+            "price": "$ 1.200",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/polo/polo-1.jpg"
+        },
+        {
+            "id": "4",
+            "category_title": "Male clothes",
+            "title": "T SHIRT",
+            "price": "$ 0",
+            "status": "Donate",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/male/polo/polo-1.jpg"
+        },
+        {
+            "id": "5",
+            "category_title": "Female clothes",
+            "title": "BABYDOLL SHIRT",
+            "price": "$ 1.000",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/ao%20nu/babydoll/babydoll1.jpg"
+        },
+        {
+            "id": "6",
+            "category_title": "Female clothes",
+            "title": "JEAN BAGGY",
+            "price": "$ 0",
+            "status": "Donate",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/jean-baggy/baggy1.jpg"
+        },
+        {
+            "id": "7",
+            "category_title": "Female clothes",
+            "title": "GRAY SHORT",
+            "price": "$ 500",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Female/quan%20nu/qu%E1%BA%A7n-short-x%C3%A1m/gray-short-1.jpg"
+        },
+        {
+            "id": "8",
+            "category_title": "Accessories",
+            "title": "NONLA",
+            "price": "$ 0",
+            "status": "Donate",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/m%C5%A9%20n%E1%BB%AF/hat_nonla/nonla.png"
+        },
+        {
+            "id": "9",
+            "category_title": "Accessories",
+            "title": "MUCOI",
+            "price": "$ 15",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/m%C5%A9%20nam/hat_mucoi/mucoi1.jpg"
+        },
+        {
+            "id": "10",
+            "category_title": "Male shoes",
+            "title": "FACE",
+            "price": "$ 15",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/gi%C3%A0y%20nam/man-shose1/face1.jpg"
+        },
+        {
+            "id": "11",
+            "category_title": "Female shoes",
+            "title": "JODAN 04",
+            "price": "$ 1.000",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/gi%C3%A0y%20n%E1%BB%AF/women-shose4/jd04-1.jpg"
+        },
+        {
+            "id": "12",
+            "category_title": "Female shoes",
+            "title": "JODAN 05",
+            "price": "$ 1.100",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/gi%C3%A0y%20n%E1%BB%AF/women-shose1/jodan01-1.jpg"
+        },
+        {
+            "id": "13",
+            "category_title": "Female shoes",
+            "title": "JODAN 06",
+            "price": "$ 1.200",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/gi%C3%A0y%20n%E1%BB%AF/women-shose8/jd08-1.jpg"
+        },
+        {
+            "id": "14",
+            "category_title": "Bag & Backpack",
+            "title": "BAG 1",
+            "price": "$ 0",
+            "status": "Donate",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/t%C3%BAi%20x%C3%A1ch/black%20bag/t%C3%BAi%20%C4%91en.jpg"
+        },
+        {
+            "id": "15",
+            "category_title": "Bag & Backpack",
+            "title": "BAG 2",
+            "price": "$ 1.200",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/t%C3%BAi%20x%C3%A1ch/mahegin/t%C3%BAi%20mahegin.jpg"
+        },
+        {
+            "id": "16",
+            "category_title": "Kid clothes",
+            "title": "CARO DRESS",
+            "price": "$ 200",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Baby/Dress/caro-dress/caro-dress1.jpg"
+        },
+        {
+            "id": "17",
+            "category_title": "Kid clothes",
+            "title": "DRESS WITH FLOWER",
+            "price": "$ 1.200",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/Baby/Dress/dress-with-flower/dress-with-flower1.jpg"
+        },
+        {
+            "id": "18",
+            "category_title": "Other",
+            "title": "HEART EARDROP",
+            "price": "$ 500",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/eardrop/tim/tim1.jpg"
+        },
+        {
+            "id": "19",
+            "category_title": "Other",
+            "title": "GOLDEN EARDROP",
+            "price": "$ 200",
+            "status": "For sell",
+            "imgUrl": "http://fpt-aptech.com/fivelittleflowers/images/product_images/eardrop/vang/vang1.jpg"
+        }
+    ]
+}
+
